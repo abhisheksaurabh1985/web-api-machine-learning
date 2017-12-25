@@ -14,5 +14,5 @@ write this notebook.
 ### Table of Contents
 | Topic  | Notebook | Content Description
 | ------------- | ------------- |------------- |
-| Rest API for Linear Regression Model  | [linear_regression_restAPI.ipynb](https://github.com/abhisheksaurabh1985/web-api-machine-learning/blob/master/linear_regression_restAPI.ipynb) | linear_regression_API.py should be seen in conjunction.|
-| Introduction to Flask  | [intro_to_flask.ipynb]() | Explanation of _immutability_ and _lazy evaluation_ - Example of a few basic transformations and actions|
+| Rest API for Linear Regression Model  | [linear_regression_restAPI.ipynb](https://github.com/abhisheksaurabh1985/web-api-machine-learning/blob/master/linear_regression_restAPI.ipynb) | linear_regression_API.py should be read in conjunction.|
+| Introduction to Flask  | [intro_to_flask.ipynb](https://github.com/abhisheksaurabh1985/web-api-machine-learning/blob/master/intro_to_flask.ipynb) | intro_to_flask.py should be read in conjunction. Work in progress. |
